@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa2845dDa0223391F477b483B145d6Dac0C2931cc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa2845dDa0223391F477b483B145d6Dac0C2931cc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TC CURLY BEAR",
+  "SYMBOL": "TCCB",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 12,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea Testnet",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tc-curly-bear",
+  "SHOW_BACKGROUND": true
+}
